@@ -1,5 +1,5 @@
 const STORAGE_KEY = 'rogue_meta_profile_v1';
-const MAX_LV = 20;
+const MAX_LV = 100;
 
 function defaultProfile() {
   return { coins: 0, atkLv: 0, hpLv: 0, fireLv: 0, bestScore: 0 };
